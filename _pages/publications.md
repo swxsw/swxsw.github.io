@@ -1,16 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[Predicting Forest Fire Using Remote Sensing Data And Machine Learning](https://arxiv.org/abs/2101.01975)</b><br>
+Suwei Yang, Massimo Lupascu, Kuldeep S. Meel
+<i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI-21</b>
