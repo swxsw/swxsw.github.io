@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 <br>
+<b>INC: A Scalable Incremental Weighted Sampler</b><br>
+Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
+<i>Formal Methods in Computer-Aided Design 2022</i>. <b>FMCAD22</b>
+<br>
+<b>Dynamic Graph Segmentation For Deep Graph Neural Networks</b><br>
+Johan Kok, Suwei Yang, Suriya Venkatesan, Sienyi Tan, Feng Cheng, Bingsheng He <br>
+<i>The 28th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining</i>. <b>KDD22</b>
+<br>
 <b>[Predicting Forest Fire Using Remote Sensing Data And Machine Learning](https://arxiv.org/abs/2101.01975)</b><br>
 Suwei Yang, Massimo Lupascu, Kuldeep S. Meel <br>
-<i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI-21</b>
+<i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI21</b>
