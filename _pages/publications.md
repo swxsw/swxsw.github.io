@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 
+<b>Scalable Probabilistic Routes</b><br>
+Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
+<i>LPAR 2023: 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning</i>. <b>LPAR-24</b>
+
 <b>[INC: A Scalable Incremental Weighted Sampler](https://repositum.tuwien.at/handle/20.500.12708/81353) [[Code](https://github.com/grab/inc-weighted-sampler)]</b><br>
 Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
 <i>Formal Methods in Computer-Aided Design 2022</i>. <b>FMCAD22</b>
