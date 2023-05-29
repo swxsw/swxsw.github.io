@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-<b>Scalable Probabilistic Routes</b><br>
+<b>[Scalable Probabilistic Routes](https://www.comp.nus.edu.sg/~suwei/papers/prob-route.pdf)</b><br>
 Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
 <i>LPAR 2023: 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning</i>. <b>LPAR-24</b>
 
