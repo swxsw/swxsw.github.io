@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Engineering an Exact Pseudo-Boolean Model Counter](https://arxiv.org/abs/2312.12341) [[Code](https://github.com/grab/pbcount)]</b><br>
+Suwei Yang, Kuldeep S. Meel <br>
+<i>The Thirty-Eighth AAAI Conference on Artificial Intelligence</i>. <b>AAAI24</b>
 
 <b>[Scalable Probabilistic Routes](https://www.comp.nus.edu.sg/~suwei/papers/prob-route.pdf)</b><br>
 Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
