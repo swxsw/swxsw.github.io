@@ -4,15 +4,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Towards Projected and Incremental Pseudo-Boolean Model Counting</b><br>
+Suwei Yang, Kuldeep S. Meel <br>
+<i>The Thirty-Nineth AAAI Conference on Artificial Intelligence</i>. <b>AAAI25</b>
+
 <b>[Engineering an Exact Pseudo-Boolean Model Counter](https://arxiv.org/abs/2312.12341) [[Code](https://github.com/grab/pbcount)]</b><br>
 Suwei Yang, Kuldeep S. Meel <br>
 <i>The Thirty-Eighth AAAI Conference on Artificial Intelligence</i>. <b>AAAI24</b>
 
-<b>[Scalable Probabilistic Routes](https://www.comp.nus.edu.sg/~suwei/papers/prob-route.pdf)</b><br>
+<b>[Scalable Probabilistic Routes](https://arxiv.org/abs/2306.10736)</b><br>
 Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
 <i>LPAR 2023: 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning</i>. <b>LPAR-24</b>
 
-<b>[INC: A Scalable Incremental Weighted Sampler](https://repositum.tuwien.at/handle/20.500.12708/81353) [[Code](https://github.com/grab/inc-weighted-sampler)]</b><br>
+<b>[INC: A Scalable Incremental Weighted Sampler](https://arxiv.org/abs/2306.10824) [[Code](https://github.com/grab/inc-weighted-sampler)]</b><br>
 Suwei Yang, Victor Liang, Kuldeep S. Meel <br>
 <i>Formal Methods in Computer-Aided Design 2022</i>. <b>FMCAD22</b>
 
