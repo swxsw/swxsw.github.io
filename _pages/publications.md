@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Towards Projected and Incremental Pseudo-Boolean Model Counting</b><br>
+<b>[Towards Projected and Incremental Pseudo-Boolean Model Counting](https://arxiv.org/abs/2412.14485)</b><br>
 Suwei Yang, Kuldeep S. Meel <br>
 <i>The Thirty-Ninth AAAI Conference on Artificial Intelligence</i>. <b>AAAI25</b>
 
