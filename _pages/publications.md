@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[On Top-Down Pseudo-Boolean Model Counting](https://arxiv.org/abs/2506.05232)</b><br>
+Suwei Yang, Yong Lai, Kuldeep S. Meel <br>
+<i>The 28th International Conference on Theory and Applications of Satisfiability Testing</i>. <b>SAT 2025</b>
+
 <b>[Towards Projected and Incremental Pseudo-Boolean Model Counting](https://arxiv.org/abs/2412.14485) [[Code](https://github.com/grab/pbcount)] [[Benchmarks](https://zenodo.org/records/14557331)]</b><br>
 Suwei Yang, Kuldeep S. Meel <br>
 <i>The Thirty-Ninth AAAI Conference on Artificial Intelligence</i>. <b>AAAI25</b>
