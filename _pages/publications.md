@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[On Top-Down Pseudo-Boolean Model Counting](https://arxiv.org/abs/2506.05232)</b><br>
+<b>[On Top-Down Pseudo-Boolean Model Counting](https://arxiv.org/abs/2506.05232) [[Code](https://github.com/grab/pbmc)]</b><br>
 Suwei Yang, Yong Lai, Kuldeep S. Meel <br>
 <i>The 28th International Conference on Theory and Applications of Satisfiability Testing</i>. <b>SAT 2025</b>
 
