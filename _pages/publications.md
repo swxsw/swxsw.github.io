@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[On Scalability of Knowledge Compilation Applications]</b><br>(https://swxsw.github.io/files/pdfs/thesis-final-draft.pdf)
+Suwei Yang <br>
+<i>PhD Thesis, National University of Singapore</i>
+
 <b>[On Top-Down Pseudo-Boolean Model Counting](https://arxiv.org/abs/2506.05232) [[Code](https://github.com/grab/pbmc)] [[Benchmarks](https://zenodo.org/records/15582933)]</b><br>
 Suwei Yang, Yong Lai, Kuldeep S. Meel <br>
 <i>The 28th International Conference on Theory and Applications of Satisfiability Testing</i>. <b>SAT 2025</b>
