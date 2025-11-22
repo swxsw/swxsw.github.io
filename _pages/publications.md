@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[On Scalability of Knowledge Compilation Applications]</b><br>(https://swxsw.github.io/files/pdfs/thesis-final-draft.pdf)
+<b>[On Scalability of Knowledge Compilation Applications](https://swxsw.github.io/files/pdfs/thesis-final-draft.pdf)</b><br>
 Suwei Yang <br>
 <i>PhD Thesis, National University of Singapore</i>
 
